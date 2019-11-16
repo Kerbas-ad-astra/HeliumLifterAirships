@@ -499,7 +499,7 @@ public class LLEnvelopePartModule : PartModule
         // line.transform.localEulerAngles = Vector3.zero;
 
         // Make it render a red to yellow triangle, 1 meter wide and 2 meters long
-        line.material = new Material(Shader.Find("Particles/Additive"));
+        line.material = new Material(Shader.Find("KSP/Particles/Additive"));
 		line.startColor = color;
 		line.endColor = color;
 		line.startWidth = 0.5f;

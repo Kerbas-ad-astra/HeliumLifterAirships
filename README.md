@@ -20,17 +20,17 @@ Ordinarily, I'd direct you someplace to get a zip file to unzip into GameData, b
 
 ## Version history and changelog
 
-* 2016 May XX:
-	* Fixes to compile and run in KSP 1.1.2.
-	* Changed folder name, assembly name, and part names to avoid collisions with HooliganLabs 5.
-* 2016 Sep XX:
-	* Fixes to compile and run in KSP 1.2.
-	* Added part tags.
-	* Added editor info.
-* 2016 Oct XX:
-	* Renaming to bring in line with my other Libre resurrections.
-* 2018 Mar XX:
-	* Updated line rendering for KSP 1.4.1.
+- 2016 May XX:
+	- Fixes to compile and run in KSP 1.1.2.
+	- Changed folder name, assembly name, and part names to avoid collisions with HooliganLabs 5.
+- 2016 Sep XX:
+	- Fixes to compile and run in KSP 1.2.
+	- Added part tags.
+	- Added editor info.
+- 2016 Oct XX:
+	- Renaming to bring in line with my other Libre resurrections.
+- 2018 Mar XX:
+	- Updated line rendering for KSP 1.4.1.
 
 ## Roadmap
 
